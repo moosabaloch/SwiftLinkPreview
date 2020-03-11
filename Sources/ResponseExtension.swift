@@ -8,7 +8,7 @@
 
 import Foundation
 
-internal extension Response {
+extension Response {
     
     var dictionary: [String: Any] {
         var responseData:[String: Any] = [:]
