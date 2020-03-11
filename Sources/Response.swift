@@ -21,6 +21,6 @@ public struct Response {
     public var video: String?
     public var price: String?
     
-//    public init() { }
+    public init() { }
     
 }
